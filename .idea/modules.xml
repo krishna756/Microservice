@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/all-modules.iml" filepath="$PROJECT_DIR$/all-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/eureka-server/commmon-eureka-server.iml" filepath="$PROJECT_DIR$/common/eureka-server/commmon-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/config-server/common-config-server.iml" filepath="$PROJECT_DIR$/common/config-server/common-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-1/boot-solution/lab-1-boot-solution.iml" filepath="$PROJECT_DIR$/lab-1/boot-solution/lab-1-boot-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-3/client-solution/lab-3-client-solution.iml" filepath="$PROJECT_DIR$/lab-3/client-solution/lab-3-client-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-3/server-solution/lab-3-server-solution.iml" filepath="$PROJECT_DIR$/lab-3/server-solution/lab-3-server-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-4/eureka-client-solution/lab-4-eureka-client-solution.iml" filepath="$PROJECT_DIR$/lab-4/eureka-client-solution/lab-4-eureka-client-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-4/eureka-server-solution/lab-4-eureka-server-solution.iml" filepath="$PROJECT_DIR$/lab-4/eureka-server-solution/lab-4-eureka-server-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-5/sentence-server/lab-5-sentence-server.iml" filepath="$PROJECT_DIR$/lab-5/sentence-server/lab-5-sentence-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-5/sentence-server-solution/lab-5-sentence-server-solution.iml" filepath="$PROJECT_DIR$/lab-5/sentence-server-solution/lab-5-sentence-server-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-5/word-server/lab-5-word-server.iml" filepath="$PROJECT_DIR$/lab-5/word-server/lab-5-word-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-6/sentence-server/lab-6-sentence-server.iml" filepath="$PROJECT_DIR$/lab-6/sentence-server/lab-6-sentence-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-6/sentence-server-solution/lab-6-sentence-server-solution.iml" filepath="$PROJECT_DIR$/lab-6/sentence-server-solution/lab-6-sentence-server-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-6/word-server/lab-6-word-server-solution.iml" filepath="$PROJECT_DIR$/lab-6/word-server/lab-6-word-server-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-7/sentence-server/lab-7-sentence-server.iml" filepath="$PROJECT_DIR$/lab-7/sentence-server/lab-7-sentence-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-7/sentence-server-solution/lab-7-sentence-server-solution.iml" filepath="$PROJECT_DIR$/lab-7/sentence-server-solution/lab-7-sentence-server-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-7/sentence-server-solution-reactive/lab-7-sentence-server-solution-reactive.iml" filepath="$PROJECT_DIR$/lab-7/sentence-server-solution-reactive/lab-7-sentence-server-solution-reactive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-7/turbine-solution/lab-7-turbine-solution.iml" filepath="$PROJECT_DIR$/lab-7/turbine-solution/lab-7-turbine-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-7/word-server/lab-7-word-server.iml" filepath="$PROJECT_DIR$/lab-7/word-server/lab-7-word-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-8/client/lab-8-client.iml" filepath="$PROJECT_DIR$/lab-8/client/lab-8-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-8/client-solution/lab-8-client-solution.iml" filepath="$PROJECT_DIR$/lab-8/client-solution/lab-8-client-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-8/config-server/lab-8-config-server.iml" filepath="$PROJECT_DIR$/lab-8/config-server/lab-8-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-8/config-server-solution/lab-8-config-server-solution.iml" filepath="$PROJECT_DIR$/lab-8/config-server-solution/lab-8-config-server-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-9/gateway/lab-9-gateway.iml" filepath="$PROJECT_DIR$/lab-9/gateway/lab-9-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-9/gateway-solution/lab-9-gateway-solution.iml" filepath="$PROJECT_DIR$/lab-9/gateway-solution/lab-9-gateway-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-9/word-server/lab-9-word-server-solution.iml" filepath="$PROJECT_DIR$/lab-9/word-server/lab-9-word-server-solution.iml" />
+    </modules>
+  </component>
+</project>
